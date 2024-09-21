@@ -1,2 +1,2 @@
 # QR-Generator-
-https://github.com/VinayShah100/QR-Generator-/blob/main/Screenshot%202024-09-21%20193249.jpg?raw=true
+![image](https://github.com/user-attachments/assets/6036b11e-3b94-45b9-8222-8ae7affe2bbc)
